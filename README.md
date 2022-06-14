@@ -9,4 +9,4 @@ Read the examples and the referenced papers as I do not have a written tutorial 
 
 I am working on a completely new release of Sucuri, with distributed scheduling of tasks, which will improve performance, specially in cluster environments.
 
-Atualizando o Projeto com meus Exercícios
+Repositório da disciplina Sistemas Distribuídos atualizado com meus Exercícios e Trabalhos.
